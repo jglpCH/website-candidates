@@ -1,14 +1,29 @@
 
-$primary-color: #2D9CDB;
-$secondary-color: #BED933;
-
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Oswald:400,700');
+@import 'settings.scss';
 
-* {
-  font-family: 'Open Sans', Helvetica, sans-serif;
+p, span {
+  font-family: $text-font;
 }
 
 h1,h2,h3,h4 {
-  font-family: 'Oswald', sans-serif;
+  font-family: $heading-font;
   text-transform: uppercase;
+  background-color: $secondary-color;
+}
+
+p a {
+  color: $primary-color;
+}
+
+button {
+  background-color: $primary-color;
+  text-transform: uppercase;
+}
+
+section {
+  max-width: $max-width;
+  width: 100%;
+  margin: auto;
+  padding: 10px;
 }

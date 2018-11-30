@@ -9,9 +9,9 @@ Vue.use(VueRouter)
 const router = new VueRouter({
     mode: 'history',
     routes: [
-        {path: '/', component: Index},
-        {path: '/positionen', component: Positions},
-        {path: '/persoenlich', component: About}
+        {name: 'index', path: '/', component: Index },
+        {name: 'positions', path: '/positionen', component: Positions},
+        {name: 'about', path: '/persoenlich', component: About}
     ]
 });
 

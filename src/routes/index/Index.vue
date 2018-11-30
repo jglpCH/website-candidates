@@ -1,6 +1,8 @@
 <template>
     <div>
-        Index
+        <section>
+            <h1>Manuel Frick in den Zürcher Kantonsrat</h1>
+        </section>
     </div>
 </template>
 
