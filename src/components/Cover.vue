@@ -1,5 +1,5 @@
 <template>
-  <div class="component">
+  <div class="component"  :class="{'half': half}">
     <div class="content">
       <span>#SoIschZuekunft #progressiv</span>
       <span>Manuel Frick in den Kantonsrat</span>
@@ -9,7 +9,13 @@
 
 <script>
   export default {
-    name: "Cover"
+    name: "Cover",
+    props: {
+      half: {
+        type: Boolean,
+        default: false
+      }
+    }
   }
 </script>
 
@@ -17,10 +23,14 @@
   @import './../style/globals.scss';
 
   div.component {
-    background: url('./../assets/index_cover.jpeg') no-repeat;
+    background: url('./../assets/zurich.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     height: 60vh;
+
+    &.half {
+      height: 30vh;
+    }
 
     .content {
       // max-width: $max-width;
@@ -33,7 +43,7 @@
         display: block;
         right: 0;
         color: white;
-        font-size: 24px !important;
+        @include css-lock(22, 24, 400, 1200, font-size);
         padding: 10px 20px;
         font-family: $heading-font !important;
 

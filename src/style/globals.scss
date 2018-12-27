@@ -1,28 +1,31 @@
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Oswald:400,700');
 @import 'settings.scss';
+@import 'mixins.scss';
 
-* {
+a, p, li {
   font-family: $text-font;
   font-size: $font-size;
+  @include css-lock(16, 20, '400px', '1200px', font-size);
+
 }
 
 h1,h2,h3,h4 {
   font-family: $heading-font;
   text-transform: uppercase;
   padding: 5px 10px;
-  margin: -5px;
+  margin: -10px;
   display: inline-block;
   font-weight: normal;
-  font-size: $heading-font-size;
+  @include css-lock(28, 32, 400, 1200, font-size);
+
 }
 
 h1 {
   color: #fff;
   background-color: $primary-color;
-  padding-left: 1000px;
   position: relative;
-  margin-left:-1000px;
+  margin-top: $spacing-20;
 }
 
 p a {
@@ -32,30 +35,36 @@ p a {
 button, .button {
   background-color: $secondary-color;
   text-transform: uppercase;
-  padding: 10px 20px;
+  margin: 10px 20px;
   border: 0;
   color: #fff;
   font-size: $button-font-size;
-  text-decoration: none;
+  text-decoration: underline;
   display: inline-block;
   margin-top:$spacing-20;
+  border-radius: 4px;
+  transition: all 0.2s;
+
 
   &:hover {
-    text-decoration: underline;
+    box-shadow: 0 3px 8px rgba(42,32,23,.3)
   }
 }
 
 section {
   max-width: $max-width;
-  width: 100%;
   margin: auto;
   padding: 10px;
-  padding-top: $spacing-80;
+  padding-top: $spacing-40;
   padding-bottom: $spacing-80;
 }
 
 .cells {
   display: flex;
+}
+
+.center {
+  text-align: center;
 }
 .bg-primary {
   background-color: $primary-color;
@@ -67,3 +76,5 @@ section {
 .bg-primary p {
   color: #ffffff;
 }
+
+

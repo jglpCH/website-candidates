@@ -21,6 +21,10 @@
 
 <style lang="scss">
   #app {
+
+    ul {
+      list-style: square outside url('./assets/list-icon.png');
+    }
     @import "style/globals";
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
