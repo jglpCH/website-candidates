@@ -81,7 +81,7 @@
             text-decoration: none;
             text-transform: uppercase;
             font-family: $heading-font;
-            padding: 10px 20px;
+            padding: 15px 20px;
 
             &.router-link-active {
               text-decoration: underline;
@@ -92,6 +92,12 @@
             }
           }
 
+        }
+      }
+
+      @media(max-width: 440px) {
+        ul li:nth-child(3) {
+          display: none;
         }
       }
     }

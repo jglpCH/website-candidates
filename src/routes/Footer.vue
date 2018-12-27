@@ -6,7 +6,7 @@
       <div class="bg-secondary">
         <section>
           <p>
-            <strong>Du willst dich ebenfalls für konsruktive, faktenbasierte Politik einsetzen?</strong><br>
+            <strong>Du willst dich ebenfalls für konstruktive, faktenbasierte Politik einsetzen?</strong><br>
             Schau bei den Jungen Grünliberalen oder den Grünliberalen vorbei -
             <a href="https://zurich.jungegrunliberale.ch/mitglied-werden">Jetzt mitmachen!</a>
           </p>
@@ -19,7 +19,12 @@
             LinkedIn: <a target="_blank"  href="https://www.linkedin.com/in/manuel-frick/">https://www.linkedin.com/in/manuel-frick/</a><br>
           </p>
 
-          <p>Manuel frick kandidiert für die Jungen Grünliberalen sowie die Grünliberalen im Kreis 10 / Wipkingen Höngg
+          <p>
+            <strong>Kontakt</strong><br>
+            <router-link :to="{name: 'contact'}">Kontaktiere mich</router-link>
+          </p>
+
+          <p>Manuel Frick kandidiert für die Jungen Grünliberalen sowie die Grünliberalen im Kreis 10 / Wipkingen Höngg
             für den Kantonsrat auf der Liste 4 der Grünliberalen. Auch für die Jungen Grünliberalen und somit liberale,
             konstruktive Politik kandidieren:
           </p>
@@ -34,7 +39,8 @@
           <footer>
             <p>
               <strong><a target="_blank"  href="https://zurich.jungegrunliberale.ch">Junge Grünliberale Kanton Zürich</a></strong><br>
-              <router-link :to="{name: 'imprint'}">Impressum und Datenschutz</router-link>
+              <router-link :to="{name: 'imprint'}">Impressum und Datenschutz</router-link><br>
+
             </p>
           </footer>
         </section>
