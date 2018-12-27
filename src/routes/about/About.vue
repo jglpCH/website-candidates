@@ -1,6 +1,6 @@
 <template>
   <div>
-    <cover half="true"></cover>
+    <cover :half="true"></cover>
     <section>
       <div class="cells">
         <div class="intro-text">

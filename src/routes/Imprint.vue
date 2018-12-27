@@ -1,6 +1,6 @@
 <template>
   <div>
-    <cover half="true"></cover>
+    <cover :half="true"></cover>
     <section>
       <h1>
         Impressum
