@@ -12,7 +12,7 @@
           <router-link class="button" :to="{name: 'about'}">Mehr über mich</router-link>
         </div>
         <div class="portrait">
-          <img src="./../../assets/candidate_portrait.jpg">
+          <img src="./../../assets/candidate_portrait.jpg" alt="Manuel Frick">
         </div>
       </div>
       <h1>Dafür setze ich mich ein</h1>
@@ -61,10 +61,10 @@
       width: 100%;
     }
 
+  }
 
-    .cells {
-      flex-wrap: wrap-reverse;
-      justify-content: center;
-    }
+  .cells {
+    flex-wrap: wrap-reverse;
+    justify-content: center;
   }
 </style>

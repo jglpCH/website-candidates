@@ -26,7 +26,7 @@
     background: url('./../assets/zurich.jpg') no-repeat;
     background-size: cover;
     background-position: center;
-    height: 60vh;
+    height: 44vh;
 
     &.half {
       height: 30vh;

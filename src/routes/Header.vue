@@ -2,7 +2,7 @@
   <header>
     <div>
       <router-link class="head-image" :to="{name: 'index'}">
-        <img src="./../assets/candidate_head.jpg">
+        <img alt="Manuel Frick" src="./../assets/candidate_head.jpg">
       </router-link>
       <nav class="navigation">
         <ul>
@@ -11,6 +11,9 @@
           </li>
           <li>
             <router-link :to="{name: 'positions'}">Positionen</router-link>
+          </li>
+          <li>
+            <router-link :to="{name: 'contact'}">Kontakt</router-link>
           </li>
         </ul>
       </nav>

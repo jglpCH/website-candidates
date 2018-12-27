@@ -1,25 +1,31 @@
 <template>
-    <div>
-      <section>
-        <h1>
-          Impressum
-        </h1>
-        <p>
-          Blablas
-        </p>
-        <h1>Datenschutz</h1>
-        <p>
+  <div>
+    <cover half="true"></cover>
+    <section>
+      <h1>
+        Impressum
+      </h1>
+      <p>
+        Blablas
+      </p>
+      <h1>Datenschutz</h1>
+      <p>
 
-        </p>
-      </section>
+      </p>
+    </section>
 
-    </div>
+  </div>
 </template>
 
 <script>
-    export default {
-        name: "Imprint.vue"
+  import Cover from '../components/Cover';
+
+  export default {
+    name: "Imprint.vue",
+    components: {
+      Cover
     }
+  }
 </script>
 
 <style scoped>

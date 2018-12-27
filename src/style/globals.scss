@@ -6,7 +6,7 @@
 a, p, li {
   font-family: $text-font;
   font-size: $font-size;
-  @include css-lock(16, 20, '400px', '1200px', font-size);
+  @include css-lock(16, 20, 400, 1200, font-size);
 
 }
 
@@ -35,15 +35,16 @@ p a {
 button, .button {
   background-color: $secondary-color;
   text-transform: uppercase;
-  margin: 10px 20px;
+  padding: 10px 20px;
   border: 0;
   color: #fff;
   font-size: $button-font-size;
   text-decoration: underline;
   display: inline-block;
-  margin-top:$spacing-20;
+  margin-top: $spacing-20;
   border-radius: 4px;
   transition: all 0.2s;
+  @include css-lock(16, 20, 400, 1200, font-size);
 
 
   &:hover {

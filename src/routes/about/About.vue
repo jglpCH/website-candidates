@@ -10,7 +10,7 @@
         nachhaltige Schweiz ein.</p>
         </div>
         <div class="portrait">
-          <img src="./../../assets/candidate_portrait.jpg">
+          <img src="./../../assets/candidate_portrait.jpg" alt="Manuel Frick">
         </div>
       </div>
       <h1>Politik</h1>
@@ -31,7 +31,8 @@
         <li>Nachtnetz am Donnerstag in Zürich</li>
       </ul>
       <h1>Smartspider</h1>
-      <p class="center"><img src="../../assets/smartspider.png" class="smartspider"></p>
+      <p class="center">
+        <img src="../../assets/smartspider.png" class="smartspider" alt="Manuel Frick"></p>
       <h1>Privat</h1>
       <p>Squash, Badminton, Philosophie, kreativ</p>
       <h1>Beruf</h1>
@@ -80,9 +81,8 @@
   }
 
   .intro-text {
-    flex: 1 0 30%;
+    flex: 2 0 30%;
     min-width: 300px;
-
   }
 
   .cells {

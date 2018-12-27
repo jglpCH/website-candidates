@@ -14,9 +14,9 @@
 
           <p>
             <strong>Soziale Medien</strong><br>
-            Twitter: <a href="https://twitter.com/m_frick">https://twitter.com/m_frick</a><br>
-            Facebook: <a href="https://www.facebook.com/manuel.noah.frick">https://www.facebook.com/manuel.noah.frick</a><br>
-            LinkedIn: <a href="https://twitter.com/m_frick">https://twitter.com/m_frick</a><br>
+            Twitter: <a target="_blank"  href="https://twitter.com/m_frick">https://twitter.com/m_frick</a><br>
+            Facebook: <a target="_blank"  href="https://www.facebook.com/manuel.noah.frick">https://www.facebook.com/manuel.noah.frick</a><br>
+            LinkedIn: <a target="_blank"  href="https://www.linkedin.com/in/manuel-frick/">https://www.linkedin.com/in/manuel-frick/</a><br>
           </p>
 
           <p>Manuel frick kandidiert für die Jungen Grünliberalen sowie die Grünliberalen im Kreis 10 / Wipkingen Höngg
@@ -24,16 +24,16 @@
             konstruktive Politik kandidieren:
           </p>
             <ul>
-              <li><a href="https://sven.ch">Sven Sobernheim, Kandidat der Grünliberalen im Kreis 11 Zürich Oerlikon / Seebach / Affoltern</a></li>
-              <li><a href="https://sven.ch">Sven Sobernheim, Kandidat der Grünliberalen im Kreis 11 Zürich Oerlikon / Seebach / Affoltern</a></li>
-              <li><a href="https://sven.ch">Sven Sobernheim, Kandidat der Grünliberalen im Kreis 11 Zürich Oerlikon / Seebach / Affoltern</a></li>
-              <li><a href="https://sven.ch">Sven Sobernheim, Kandidat der Grünliberalen im Kreis 11 Zürich Oerlikon / Seebach / Affoltern</a></li>
-              <li><a href="https://sven.ch">Sven Sobernheim, Kandidat der Grünliberalen im Kreis 11 Zürich Oerlikon / Seebach / Affoltern</a></li>
+              <li><a target="_blank" href="https://sven.ch">Sven Sobernheim, Kandidat der Grünliberalen im Kreis 11 Zürich Oerlikon / Seebach / Affoltern</a></li>
+              <li><a target="_blank"  href="https://sven.ch">Sven Sobernheim, Kandidat der Grünliberalen im Kreis 11 Zürich Oerlikon / Seebach / Affoltern</a></li>
+              <li><a target="_blank"  href="https://sven.ch">Sven Sobernheim, Kandidat der Grünliberalen im Kreis 11 Zürich Oerlikon / Seebach / Affoltern</a></li>
+              <li><a target="_blank"  href="https://sven.ch">Sven Sobernheim, Kandidat der Grünliberalen im Kreis 11 Zürich Oerlikon / Seebach / Affoltern</a></li>
+              <li><a target="_blank"  href="https://sven.ch">Sven Sobernheim, Kandidat der Grünliberalen im Kreis 11 Zürich Oerlikon / Seebach / Affoltern</a></li>
             </ul>
 
           <footer>
             <p>
-              <strong><a href="https://zurich.jungegrunliberale.ch">Junge Grünliberale Kanton Zürich</a></strong><br>
+              <strong><a target="_blank"  href="https://zurich.jungegrunliberale.ch">Junge Grünliberale Kanton Zürich</a></strong><br>
               <router-link :to="{name: 'imprint'}">Impressum und Datenschutz</router-link>
             </p>
           </footer>
@@ -41,7 +41,7 @@
       </div>
       <div class="logo">
         <div></div>
-        <img src="./../assets/logo_glp.svg">
+        <img src="./../assets/logo_glp.svg" alt="Manuel Frick">
       </div>
     </div>
 </template>
