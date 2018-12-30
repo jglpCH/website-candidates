@@ -1,5 +1,6 @@
 <template>
   <div class="component"  :class="{'half': half}">
+
     <div class="content">
       <span>#SoIschZuekunft #progressiv</span>
       <span>Manuel Frick in den Kantonsrat</span>
@@ -27,10 +28,12 @@
     background-size: cover;
     background-position: center;
     height: 44vh;
+    position:relative;
 
     &.half {
       height: 30vh;
     }
+
 
     .content {
       // max-width: $max-width;

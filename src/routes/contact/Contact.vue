@@ -4,8 +4,6 @@
     <section>
       <h1>So erreichst Du mich</h1>
       <p>
-
-
         Per Mail: <a href="mailto:manuel.frick@jungegrunliberale.ch">manuel.frick@jungegrunliberale.ch</a><br>
         Per Telefon: <a href="tel:+41763184772">076 318 47 72</a>
 

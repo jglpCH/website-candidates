@@ -39,16 +39,29 @@ button, .button {
   border: 0;
   color: #fff;
   font-size: $button-font-size;
-  text-decoration: underline;
+  text-decoration: none;
   display: inline-block;
   margin-top: $spacing-20;
   border-radius: 4px;
   transition: all 0.2s;
   @include css-lock(16, 20, 400, 1200, font-size);
 
+  &::after {
+    content: '';
+    display: inline-block;
+    position: static;
+    width: 10px;
+    height: 10px;
+    margin-left: 10px;
+    border-top: 2px solid white;
+    border-right: 2px solid white;
+    transform: rotate(45deg);
+  }
+
 
   &:hover {
-    box-shadow: 0 3px 8px rgba(42,32,23,.3)
+    box-shadow: 0 3px 8px rgba(42,32,23,.3);
+    text-decoration: underline;
   }
 }
 
