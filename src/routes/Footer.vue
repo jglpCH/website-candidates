@@ -12,11 +12,14 @@
           </p>
 
 
-          <p>
+          <p class="some">
             <strong>Soziale Medien</strong><br>
-            Twitter: <a target="_blank"  href="https://twitter.com/m_frick">https://twitter.com/m_frick</a><br>
-            Facebook: <a target="_blank"  href="https://www.facebook.com/manuel.noah.frick">https://www.facebook.com/manuel.noah.frick</a><br>
-            LinkedIn: <a target="_blank"  href="https://www.linkedin.com/in/manuel-frick/">https://www.linkedin.com/in/manuel-frick/</a><br>
+            <a target="_blank"  href="https://twitter.com/m_frick">
+              <img alt="Manuel Frick auf Twitter" src="./../assets/some_twitter.svg"></a>
+            <a target="_blank"  href="https://www.facebook.com/manuel.noah.frick">
+              <img alt="Manuel Frick auf Facebook" src="./../assets/some_facebook.svg"></a>
+            <a target="_blank"  href="https://www.linkedin.com/in/manuel-frick/">
+              <img alt="Manuel Frick auf LinkedIn" src="./../assets/some_linkedin.svg"></a>
           </p>
 
           <p>
@@ -47,7 +50,8 @@
       </div>
       <div class="logo">
         <div></div>
-        <img src="./../assets/logo_glp.svg" alt="Manuel Frick">
+        <a href="https://zurich.jungegrunliberale.ch" target="_blank">
+        <img src="./../assets/logo_glp.svg" alt="Junge Grünliberale Kanton Zürich"></a>
       </div>
     </div>
 </template>
@@ -64,6 +68,7 @@
   .diagonal {
     width: 100%;
     height: calc(100vw * 0.18);
+    
     overflow: hidden;
     div {
       width: 300%;
@@ -84,6 +89,13 @@
     font-size: $font-size-small !important;
   }
 
+  .some {
+    img {
+      height:60px;
+      margin-right: 30px;
+    }
+  }
+
   .logo {
     position: fixed;
     right: 0;
@@ -92,6 +104,10 @@
     height: 8vw;
     max-height: 70px;
     bottom: 0;
+
+    @media (max-width: 600px) {
+      height: 10vw;
+    }
     div {
       background-color: #fff;
       position: absolute;
