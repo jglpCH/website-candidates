@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "npm": "^6.5.0",
+    "prerender-spa-plugin": "^3.4.0",
     "vue": "^2.5.17",
     "vue-headful": "^2.0.1",
     "vue-router": "^3.0.2"

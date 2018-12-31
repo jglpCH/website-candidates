@@ -11,6 +11,7 @@ Vue.use(VueRouter);
 const router = new VueRouter({
   mode: 'history',
   routes: [
+    /* remember to update pre-render list if applicable */
     {name: 'index', path: '/', component: Index},
     {name: 'positions', path: '/positionen', component: Positions},
     {name: 'about', path: '/persoenlich', component: About},
