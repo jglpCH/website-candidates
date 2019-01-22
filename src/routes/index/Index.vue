@@ -3,13 +3,8 @@
     <cover></cover>
     <section>
       <div class="cells">
-
         <div class="intro-text">
-          <h1>Politik mit Herz, Verstand und Weitsicht</h1>
-          <h2>Dein Vertreter für einen innovativen Kanton Zürich</h2>
-          <p>Als Co-Präsident der jglp Kanton Zürich und Mitglied der Geschäftsleitung der jglp Schweiz setze ich mich mit
-            viel Engagement für eine verträgliche, aber konsequente Energiewende sowie eine innovative und moderne
-            Wirtschaft ein.</p>
+          <div v-html="indexLead"></div>
           <router-link class="button" :to="{name: 'about'}">Mehr über mich</router-link>
         </div>
         <div class="portrait">
@@ -20,35 +15,25 @@
           <img src="./../../assets/candidate_portrait.jpg" alt="Manuel Frick">
         </div>
       </div>
-      <h1>Dafür setze ich mich ein</h1>
-      <p>
-        Faire, liberale Politik welche stets das Wohl der Gesamtgesellschaft als Optimum verfolgt sowie kommende
-        Generationen
-        respektiert - das ist mein Kompass.</p>
-      <h2>Energiewende, Digitalisierung, Chancengleichheit</h2>
-      <p>
-        ... sind die Themen, für welche ich mich engagiere. Wie ich mir das genau vorstelle, siehst du in meinen Positionen.
-
-      </p>
-      <p>
-        <router-link class="button" :to="{name: 'positions'}">Positionen</router-link>
-      </p>
-
-      <h1>Liste 4 Grünliberale am 24. März 2019</h1>
-      <p>
-        Wirf die Liste 4 ein und unterstütze unsere progressive und konstruktive Politik. Als Regierungsrat empfehle
-        ich <a target="_blank" href="https://www.joergmaeder.ch/">Jörg Mäder</a>, welcher durch seine digitale Expertise und politische Erfahrung die ideale Besetzung für ein
-        Zürich von morgen ist.
-      </p>
+      <div v-html="index">
+      </div>
     </section>
   </div>
 </template>
 
 <script>
   import Cover from '../../components/Cover'
+  import index from '../../content/index.md'
+  import indexLead from '../../content/index_lead.md'
 
   export default {
     name: "Index",
+    data() {
+      return {
+        index,
+        indexLead
+      }
+    },
     components: {
       Cover
     }
@@ -59,13 +44,15 @@
   @import './../../style/globals.scss';
 
 
-  h1 {
-    margin-bottom: 10px !important;
-  }
+
 
   .intro-text {
     flex: 2 0 30%;
     min-width: 300px;
+
+    /deep/ h1 {
+      margin-bottom: 10px !important;
+    }
   }
 
   .portrait {
@@ -74,6 +61,7 @@
     min-width: 200px;
     //max-width: 50%;
     position: relative;
+
     img {
       width: 100%;
     }
