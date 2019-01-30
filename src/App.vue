@@ -1,9 +1,8 @@
 <template>
   <div id="app">
     <vue-headful
-      title="Dein Kantonsrat für konstruktive, fortschrittliche und nachhaltige Politik."
-      description="Ich kandidiere Kreis 10 (Wipkingen, Höngg, Unterstrass, Oberstrass) und setze mich mit viel Herzblut
-      für die Energiewende, Innovation und Chancengleichheit ein."
+      :title="config.title"
+      :description="config.description"
     />
     <page-header/>
     <router-view></router-view>
@@ -15,13 +14,19 @@
   import PageHeader from './routes/Header'
   import PageFooter from "./routes/Footer";
   import VueHeadful from "vue-headful";
+  import config from "@content/config";
 
   export default {
     name: 'app',
     components: {
       VueHeadful,
       PageFooter,
-      PageHeader
+      PageHeader,
+    },
+    data() {
+      return {
+        config,
+      };
     }
   }
 </script>

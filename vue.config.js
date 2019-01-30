@@ -4,6 +4,11 @@ const PrerenderSpaPlugin = require('prerender-spa-plugin');
 
 module.exports = {
   configureWebpack: {
+    resolve: {
+      alias: {
+        '@content': path.resolve(__dirname, 'src/content/manuel'),
+      }
+    },
     module: {
       rules: [{
         test: /\.md$/,

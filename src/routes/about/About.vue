@@ -5,7 +5,7 @@
       <div class="cells">
         <div class="intro-text"  v-html="aboutLead"></div>
         <div class="portrait">
-          <img src="./../../assets/candidate_portrait.jpg" alt="Manuel Frick">
+          <img src="@content/candidate_portrait.jpg" alt="Manuel Frick">
         </div>
       </div>
       <div v-html="about">
@@ -16,8 +16,8 @@
 
 <script>
   import Cover from "../../components/Cover";
-  import about from "../../content/about.md"
-  import aboutLead from "../../content/about_lead.md"
+  import about from "@content/about.md"
+  import aboutLead from "@content/about_lead.md"
 
   export default {
     name: "About",
@@ -52,7 +52,11 @@
     justify-content: center;
   }
 
-  .smartspider {
+  /deep/ img {
+    max-width: 90%;
+  }
+
+  /deep/ .smartspider {
     max-width: 100%;
   }
 </style>

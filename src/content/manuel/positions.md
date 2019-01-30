@@ -13,9 +13,9 @@ erneurbaren Energien ein. Ich engagiere mich gegen einen Ausbau des fossilen Ver
  für den Flugverkehr.
 
 <div class="cells icons">
-  <img src="./../assets/noun_cycle_1696644_ffffff.svg">
-  <img src="./../assets/noun_renewable_1962539_ffffff.svg">
-  <img src="./../assets/noun_Lesbian_1459102_ffffff.svg">
+  <img src="./../../assets/noun_cycle_1696644_ffffff.svg">
+  <img src="./../../assets/noun_renewable_1962539_ffffff.svg">
+  <img src="./../../assets/noun_Lesbian_1459102_ffffff.svg">
 </div>
         
 ## 2. INNOVATION UND DIGITAL - BEREIT FÜR DIE ZUKUNFT
@@ -27,9 +27,9 @@ Ich setze mich für Startups und schlanke Regulierungen ein und engagiere mich v
 Branchenschutz, Protektionismus und Filzpolitik.
 
 <div class="cells icons">
-  <img src="./../assets/noun_cycle_1696644_ffffff.svg">
-  <img src="./../assets/noun_renewable_1962539_ffffff.svg">
-  <img src="./../assets/noun_Lesbian_1459102_ffffff.svg">
+  <img src="./../../assets/noun_cycle_1696644_ffffff.svg">
+  <img src="./../../assets/noun_renewable_1962539_ffffff.svg">
+  <img src="./../../assets/noun_Lesbian_1459102_ffffff.svg">
 </div>
 
 ## 3. LIBERALE CHANCENKULTUR
@@ -42,9 +42,9 @@ Institutionen ein. Ich engagiere mich gegen die Schwächung des Rechtstaates und
 gegen staatliche Schikane in jeglicher Form. 
 
 <div class="cells icons">
-<img src="./../assets/noun_cycle_1696644_ffffff.svg">
-<img src="./../assets/noun_renewable_1962539_ffffff.svg">
-<img src="./../assets/noun_Lesbian_1459102_ffffff.svg">
+<img src="./../../assets/noun_cycle_1696644_ffffff.svg">
+<img src="./../../assets/noun_renewable_1962539_ffffff.svg">
+<img src="./../../assets/noun_Lesbian_1459102_ffffff.svg">
 </div>
 
 ## 4. Cannabisregulierung
@@ -60,9 +60,9 @@ Cannabis sollte Regulierung und ähnlich wie Alkohol reguliert werden.
 Ich engagiere mich gegen die Verzögerungstaktikg der Konservativen
           
 <div class="cells icons">
-<img src="./../assets/noun_cycle_1696644_ffffff.svg">
-<img src="./../assets/noun_renewable_1962539_ffffff.svg">
-<img src="./../assets/noun_Lesbian_1459102_ffffff.svg">
+<img src="./../../assets/noun_cycle_1696644_ffffff.svg">
+<img src="./../../assets/noun_renewable_1962539_ffffff.svg">
+<img src="./../../assets/noun_Lesbian_1459102_ffffff.svg">
 </div>
 
 ## 5. VELO FIRST, AUTO SECOND</h2>
@@ -75,11 +75,11 @@ die Zubetonierung unser Landschaft, Klotzen-Statt-Denken-Mentalität und Regulie
 in diesem Bereich verhindert.
 
 <div class="cells icons">
-<img src="./../assets/noun_cycle_1696644_ffffff.svg">
-<img src="./../assets/noun_renewable_1962539_ffffff.svg">
-<img src="./../assets/noun_Lesbian_1459102_ffffff.svg">
+<img src="./../../assets/noun_cycle_1696644_ffffff.svg">
+<img src="./../../assets/noun_renewable_1962539_ffffff.svg">
+<img src="./../../assets/noun_Lesbian_1459102_ffffff.svg">
 </div>
         
 # Smartspider
 
-<p class="center"><img src="../assets/smartspider.png"  class="smartspider"></p>
+<p class="center"><img src="../../content/manuel/spider.png"  class="smartspider"></p>

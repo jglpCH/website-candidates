@@ -14,18 +14,21 @@ h1,h2,h3,h4 {
   font-family: $heading-font;
   text-transform: uppercase;
   padding: 5px 10px;
-  margin: -10px;
-  display: inline-block;
+  margin: 0 -10px;
   font-weight: normal;
   @include css-lock(28, 32, 400, 1200, font-size);
-
 }
 
 h1 {
   color: #fff;
   background-color: $primary-color;
   position: relative;
-  margin-top: $spacing-20;
+  margin-top: $spacing-40;
+  display: inline-block;
+  &::after {
+    content: '';
+    display: block;
+  }
 }
 
 p a {

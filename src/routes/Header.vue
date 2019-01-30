@@ -2,7 +2,7 @@
   <header>
     <div>
       <router-link class="head-image" :to="{name: 'index'}">
-        <img alt="Manuel Frick" src="./../assets/candidate_head.jpg">
+        <img :alt="config.name" src="@content/candidate_head.jpg">
       </router-link>
       <nav class="navigation">
         <ul>
@@ -22,8 +22,16 @@
 </template>
 
 <script>
+
+  import config from '@content/config';
+
   export default {
-    name: "Header"
+    name: "Header",
+    data() {
+      return {
+        config,
+      }
+    }
   }
 </script>
 

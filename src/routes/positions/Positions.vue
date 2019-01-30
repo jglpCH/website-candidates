@@ -8,7 +8,7 @@
 
 <script>
     import Cover from "../../components/Cover";
-    import positions from "../../content/positions.md"
+    import positions from "@content/positions.md"
 
     export default {
         name: "Positionen",

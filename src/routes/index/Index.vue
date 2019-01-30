@@ -12,10 +12,17 @@
             <span>Liste</span>
             <span>4</span>
           </div>
-          <img src="./../../assets/candidate_portrait.jpg" alt="Manuel Frick">
+          <img src="@content/candidate_portrait.jpg" :alt="config.name">
         </div>
       </div>
-      <div v-html="index">
+      <div>
+        <div v-html="indexPositions">
+        </div>
+        <p>
+          <router-link class="button" :to="{name: 'positions'}">Positionen</router-link>
+        </p>
+        <div v-html="index">
+        </div>
       </div>
     </section>
   </div>
@@ -23,15 +30,19 @@
 
 <script>
   import Cover from '../../components/Cover'
-  import index from '../../content/index.md'
-  import indexLead from '../../content/index_lead.md'
+  import index from '@content/index.md'
+  import indexLead from '@content/index_lead.md'
+  import indexPositions from '@content/index_positions.md'
+  import config from '@content/config';
 
   export default {
     name: "Index",
     data() {
       return {
         index,
-        indexLead
+        indexLead,
+        indexPositions,
+        config
       }
     },
     components: {
@@ -42,9 +53,6 @@
 
 <style scoped lang="scss">
   @import './../../style/globals.scss';
-
-
-
 
   .intro-text {
     flex: 2 0 30%;

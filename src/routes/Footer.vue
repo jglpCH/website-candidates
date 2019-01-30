@@ -7,19 +7,27 @@
         <section>
           <p>
             <strong>Du willst dich ebenfalls für konstruktive, faktenbasierte Politik einsetzen?</strong><br>
-            Schau bei den Jungen Grünliberalen oder den Grünliberalen vorbei -
-            <a href="https://zurich.jungegrunliberale.ch/mitglied-werden">Jetzt mitmachen!</a>
+            Schau bei den Jungen Grünliberalen oder den Grünliberalen vorbei!<br>
+            <a class="button" href="https://zurich.jungegrunliberale.ch/mitglied-werden">Jetzt mitmachen!</a>
           </p>
-
-
           <p class="some">
-            <strong>Soziale Medien</strong><br>
-            <a target="_blank"  href="https://twitter.com/m_frick">
-              <img alt="Manuel Frick auf Twitter" src="./../assets/some_twitter.svg"></a>
-            <a target="_blank"  href="https://www.facebook.com/manuel.noah.frick">
-              <img alt="Manuel Frick auf Facebook" src="./../assets/some_facebook.svg"></a>
-            <a target="_blank"  href="https://www.linkedin.com/in/manuel-frick/">
-              <img alt="Manuel Frick auf LinkedIn" src="./../assets/some_linkedin.svg"></a>
+            <strong>Finde mich in den sozialen Medien!</strong><br><br>
+            <template v-if="config.twitter">
+              <a target="_blank"  :href="config.twitter">
+                <img :alt="config.name + 'auf Twitter'" src="./../assets/some_twitter.svg"></a>
+            </template>
+            <template v-if="config.facebook">
+              <a target="_blank"  :href="config.facebook">
+                <img :alt="config.name + ' auf Facebook'" src="./../assets/some_facebook.svg"></a>
+            </template>
+            <template v-if="config.instagram">
+              <a target="_blank"  :href="config.instagram">
+                <img :alt="config.name + ' auf Instagram'" src="./../assets/some_instagram.svg"></a>
+            </template>
+            <template v-if="config.linkedin">
+              <a target="_blank"  :href="config.linkedin">
+                <img :alt="config.name + ' auf LinkedIn'" src="./../assets/some_linkedin.svg"></a>
+            </template>
           </p>
 
           <p>
@@ -27,21 +35,18 @@
             <router-link :to="{name: 'contact'}">Kontaktiere mich</router-link>
           </p>
 
-          <p>Manuel Frick kandidiert für die Jungen Grünliberalen sowie die Grünliberalen im Kreis 10 / Wipkingen Höngg
+          <p>{{config.name }} kandidiert für die <a target="_blank" href="https://zurich.jungegrunliberale.ch/">Jungen Grünliberalen</a> sowie die <a target="_blank" href="https://zh.grunliberale.ch">Grünliberalen</a> im Wahlbezirk {{ config.bezirk }}
+            ( {{config.keywords }})
             für den Kantonsrat auf der Liste 4 der Grünliberalen. Auch für die Jungen Grünliberalen und somit liberale,
             konstruktive Politik kandidieren:
           </p>
             <ul>
-              <li><a target="_blank" href="https://sven.ch">Sven Sobernheim, Kandidat der Grünliberalen im Kreis 11 Zürich Oerlikon / Seebach / Affoltern</a></li>
-              <li><a target="_blank"  href="https://sven.ch">Sven Sobernheim, Kandidat der Grünliberalen im Kreis 11 Zürich Oerlikon / Seebach / Affoltern</a></li>
-              <li><a target="_blank"  href="https://sven.ch">Sven Sobernheim, Kandidat der Grünliberalen im Kreis 11 Zürich Oerlikon / Seebach / Affoltern</a></li>
-              <li><a target="_blank"  href="https://sven.ch">Sven Sobernheim, Kandidat der Grünliberalen im Kreis 11 Zürich Oerlikon / Seebach / Affoltern</a></li>
-              <li><a target="_blank"  href="https://sven.ch">Sven Sobernheim, Kandidat der Grünliberalen im Kreis 11 Zürich Oerlikon / Seebach / Affoltern</a></li>
+              <li v-for="candidate in candidates"><a target="_blank" :href="candidate.url">{{ candidate.name}} für die Grünliberalen im Wahlbezirk {{ candidate.district}}</a></li>
             </ul>
 
           <footer>
             <p>
-              <strong><a target="_blank"  href="https://zurich.jungegrunliberale.ch">Junge Grünliberale Kanton Zürich</a></strong><br>
+              <strong>&copy; <a target="_blank"  href="https://zurich.jungegrunliberale.ch">Junge Grünliberale Kanton Zürich, jglp Zürich</a></strong><br>
               <router-link :to="{name: 'imprint'}">Impressum und Datenschutz</router-link><br>
 
             </p>
@@ -57,8 +62,17 @@
 </template>
 
 <script>
+    import config from "@content/config";
+    import candidates from "../content/candidates";
+
     export default {
-        name: "Footer"
+        name: "Footer",
+        data() {
+          return {
+            config,
+            candidates,
+          }
+        }
     }
 </script>
 
@@ -78,6 +92,11 @@
       transform: rotate(-10deg);
       background-color: $primary-color;
     }
+  }
+
+  .button {
+    background-color: white !important;
+    color: $secondary-color !important;
   }
 
   section {

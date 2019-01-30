@@ -1,16 +1,23 @@
 <template>
-  <div class="component"  :class="{'half': half}">
+  <div class="component"  :class="{'half': half}" :style="'background-image: url(' + config.leadImage + ');'">
 
     <div class="content">
       <span>#SoIschZuekunft #progressiv</span>
-      <span>Manuel Frick in den Kantonsrat</span>
+      <span>{{ config.name}} in den Kantonsrat</span>
     </div>
   </div>
 </template>
 
 <script>
+  import config from '@content/config';
+
   export default {
     name: "Cover",
+    data(){
+      return {
+        config,
+      }
+    },
     props: {
       half: {
         type: Boolean,
@@ -24,7 +31,7 @@
   @import './../style/globals.scss';
 
   div.component {
-    background: url('./../assets/zurich.jpg') no-repeat;
+    background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     height: 44vh;
