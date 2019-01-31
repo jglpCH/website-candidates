@@ -5,7 +5,7 @@ Wir sollten uns nicht mit dem Status Quo begnügen - Züri cha meh! Besonders di
 ein Facelifting - denn wir müssen uns jetzt für die Zukunft vorbereiten, sei es Klimawandel, Verkehrsmanagement oder 
 gesellschaftliche Herausforderungen.
 
-Gib mir deine Stimme, damit ich mich im Kantonsrat für das Zürich von Morgen einsetzen kann, welches den Anschluss
-nicht verliert, sondern auf die Überholspur ansetzt!
+Unterstütze mich mit deiner Stimme, damit ich mich im Kantonsrat für das Zürich von Morgen einsetzen kann, welches den Anschluss
+nicht verliert und stattdessen für die Überholspur ansetzt!
 
 * Co-Präsident Junge Grünliberale Kanton Zürich
