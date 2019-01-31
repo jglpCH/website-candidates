@@ -1,13 +1,11 @@
 # Politik mit Herz, Verstand und Weitsicht
 ## Dein Vertreter für einen innovativen Kanton Zürich
 
-Konstruktive Mittepolitik mit Weitsicht ist aktuell rar - gib deine Stimme für einen progressiven Kanton Zürich!
+Wir sollten uns nicht mit dem Status Quo begnügen - Züri cha meh! Besonders die aktuelle Blockade-Politik verdient 
+ein Facelifting - denn wir müssen uns jetzt für die Zukunft vorbereiten, sei es Klimawandel, Verkehrsmanagement oder 
+gesellschaftliche Herausforderungen.
 
-Uns gehts gut, doch unser Wohlstand ist nicht nachhaltig: Herausforderungen wie Klimawandel und Verkehrswende müssen
-angepackt werden - damit auch die künftigen Generationen noch was davon haben.
+Gib mir deine Stimme, damit ich mich im Kantonsrat für das Zürich von Morgen einsetzen kann, welches den Anschluss
+nicht verliert, sondern auf die Überholspur ansetzt!
 
-Seit drei Jahren setze ich mich als Co-Präsident der jglp Kanton Zürich für mehr Bewegung in der Politik ein.
-Als Co-Präsident der jglp Kanton Zürich und Mitglied der Geschäftsleitung der jglp Schweiz setze ich mich
-mit
-viel Engagement für eine verträgliche, aber konsequente Energiewende sowie eine innovative und moderne
-Wirtschaft ein.
+* Co-Präsident Junge Grünliberale Kanton Zürich
