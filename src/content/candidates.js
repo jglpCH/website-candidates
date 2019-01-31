@@ -12,12 +12,17 @@ const candidates = [
   {
     name: 'Jeanine Ammann',
     district: 'Stadt Zürich Kreis 3+9 (Wiedikon, Altstetten)',
-    url: 'https://sven-sobernheim.ch'
+    url: 'https://jeanineammann.ch'
   },
   {
     name: 'Lukas Stiefel',
     district: 'Horgen (Richterswil, Wädenswil)',
     url: 'https://lukas-stiefel.ch'
+  },
+  {
+    name: 'Viviane Kägi',
+    district: 'Winterthur Land (Turbenthal)',
+    url: 'https://viviane-kaegi.ch'
   }
 ];
 
