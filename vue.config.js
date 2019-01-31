@@ -6,7 +6,7 @@ module.exports = {
   configureWebpack: {
     resolve: {
       alias: {
-        '@content': path.resolve(__dirname, 'src/content/manuel'),
+        '@content': path.resolve(__dirname, 'src/content/vivi'),
       }
     },
     module: {

@@ -9,8 +9,7 @@ Klimaerwärmung und Ressourcenverbrauch sind die Herausforderungen für die Zuku
 packen wir sie entschlossen an!
 
 Ich setze mich für griffige CO2-Gesetze, Förderung von Cleantech und eine rasche aber verträgliche Transformation von fossilen zu
-erneurbaren Energien ein. Ich engagiere mich gegen einen Ausbau des fossilen Verkehrs, Fehlanreize und Subventionen
- für den Flugverkehr.
+erneurbaren Energien ein.
 
 <div class="cells icons">
   <img src="./../../assets/noun_cycle_1696644_ffffff.svg">
@@ -37,9 +36,8 @@ Branchenschutz, Protektionismus und Filzpolitik.
 Jeder Mensch hat eine faire Chance verdient, und jeder Mensch soll sich mit persönlichen Einsatz alles
 erreichen können - ohne Schikane und mit garantiert fairer Behandlung durch den Staat.
 
-Ich setze mich für starke Bildung, Starthilfe für sozial Benachteiligte und für starke und faire
-Institutionen ein. Ich engagiere mich gegen die Schwächung des Rechtstaates und der Privatsphäre sowie
-gegen staatliche Schikane in jeglicher Form. 
+Ich setze mich ein für ausgeprägte Bildung, Starthilfe für sozial Benachteiligte und einen starken Rechtstaat, welcher 
+Chancen garantiert und Schwache schützt.
 
 <div class="cells icons">
 <img src="./../../assets/noun_cycle_1696644_ffffff.svg">
@@ -55,9 +53,7 @@ So überlassen wir Millionengewinne den Kriminellen statt sie zu versteuern und 
 den Jugendschutz überlassen wir Dealern und eine Qualitätskontrolle existiert nicht.
 
 Ich setze mich ein für eine liberale Drogenpolitik, welche sich an der Wissenschaft orientiert und nicht 
-an überholten Dogmen festhält.
-Cannabis sollte Regulierung und ähnlich wie Alkohol reguliert werden.
-Ich engagiere mich gegen die Verzögerungstaktikg der Konservativen
+auf historischer Zufälligkeit basiert. Für Cannabis strebe ich eine Regulierung vergleichbar mit Alkohol an.
           
 <div class="cells icons">
 <img src="./../../assets/noun_cycle_1696644_ffffff.svg">
@@ -67,12 +63,11 @@ Ich engagiere mich gegen die Verzögerungstaktikg der Konservativen
 
 ## 5. VELO FIRST, AUTO SECOND</h2>
 
-Das Auto ist von vorgestern - smarte Verkehrslösungen sind angesagt. Ob Carsharing, Carpooling, Freefloating
-E-Bikes, autonomes Fahren oder das klassische Velo - diesen Themen gehört die Verkehrszukunft.
+Zu oft wird in der Verkehrsplanung das Auto gegenüber dem Langsamverkehr bevorzug - damit muss Schluss sein.
+Den smarten Verkehrslösungen gehört die Zukunft: Ob Carsharing, Carpooling, Freefloating
+E-Bikes, autonomes Fahren oder das klassische Velo - so sieht Lebensqualität aus!
 
-Ich setze mich ein für verursachergerechte Abgaben, Velowege und Elektromobilität. Ich engagiere mich gegen
-die Zubetonierung unser Landschaft, Klotzen-Statt-Denken-Mentalität und Regulierungswut, welche Innovation
-in diesem Bereich verhindert.
+Ich setze mich ein für verursachergerechte Abgaben, Velowege und Elektromobilität. Generell: Denken statt Klotzen!
 
 <div class="cells icons">
 <img src="./../../assets/noun_cycle_1696644_ffffff.svg">
