@@ -8,11 +8,14 @@
           <router-link class="button" :to="{name: 'about'}">Mehr über mich</router-link>
         </div>
         <div class="portrait">
-          <div class="badge">
-            <span>Liste</span>
-            <span>4</span>
+          <div>
+            <img src="@content/candidate_portrait.jpg" :alt="config.name">
+            <div class="badge">
+              <span>Liste</span>
+              <span>4</span>
+            </div>
           </div>
-          <img src="@content/candidate_portrait.jpg" :alt="config.name">
+
         </div>
       </div>
       <div>
@@ -68,7 +71,9 @@
     flex: 1 0 30%;
     min-width: 200px;
     //max-width: 50%;
-    position: relative;
+    div {
+      position: relative;
+    }
 
     img {
       width: 100%;
