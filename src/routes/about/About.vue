@@ -56,6 +56,11 @@
     max-width: 90%;
   }
 
+  /deep/ iframe {
+    display: block;
+    margin: auto;
+  }
+
   /deep/ .smartspider {
     max-width: 100%;
   }
