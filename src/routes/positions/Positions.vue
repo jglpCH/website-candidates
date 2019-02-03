@@ -41,7 +41,7 @@
       margin: 10px;
     }
   }
-  .smartspider {
+  /deep/ .smartspider {
     max-width: 100%;
   }
 
