@@ -1,7 +1,6 @@
 const path = require('path');
 const PrerenderSpaPlugin = require('prerender-spa-plugin');
 
-
 module.exports = {
   configureWebpack: {
     resolve: {
@@ -14,7 +13,10 @@ module.exports = {
         test: /\.md$/,
         use: [
           {
-            loader: "html-loader"
+            loader: "html-loader",
+            options: {
+              interpolate: true,
+            }
           },
           {
             loader: "markdown-loader",
@@ -33,5 +35,16 @@ module.exports = {
         ],
       })]),
     ],
+  },
+  chainWebpack: config => {
+    config.module
+      .rule('pdf')
+      .test(/\.pdf$/)
+      .use('file-loader')
+      .loader('file-loader')
+      .options({
+        name: '[name].[ext]',
+        outputPath: 'public/',
+      });
   }
 };

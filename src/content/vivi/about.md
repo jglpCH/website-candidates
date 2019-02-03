@@ -20,6 +20,9 @@ Die Grünliberalen arbeiten als innovative, erfrischende und noch junge Partei g
 * wenn es die Zeit zulässt, rette ich Froschleben am Bichelsee
 * ich mache mich lokalpolitisch im Frauenforum Tösstal und Umgebung für mehr weibliche Beteiligung in der Politik stark  (https://www.frauenforumtoesstal.ch/ )
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v6gHtM6ZztQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 # Smartspider
 
