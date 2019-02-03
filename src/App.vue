@@ -3,6 +3,7 @@
     <vue-headful
       :title="config.title"
       :description="config.description"
+      :image="require('@content/candidate_portrait.jpg')"
     />
     <page-header/>
     <router-view></router-view>
