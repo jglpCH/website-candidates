@@ -47,6 +47,9 @@
     z-index: 1;
     box-shadow: 10px 10px 104px 0 rgba(0,0,0,0.75);
 
+    a {
+      color: white !important;
+    }
 
     a.head-image {
       display: block;

@@ -14,16 +14,14 @@ Zukunft, statt rückwärtsgewandte Grabenkämpfe gegen den
 politische Gegner. Für diese Ideen möchte ich mich stark 
 machen.
 
-## Ämter
+## Engagement
 
-* Vorstand Junge Grünliberale Kanton Zürich
+* Vorstand [Junge Grünliberale Kanton Zürich](https://zurich.jungegrunliberale.ch)
 
 # Smartspider
-
-Weitere Informationen findest du auf meinem [Smartvote-Profil](http://www.smartvote.ch/19_zh_leg/portrait/candidate/index/40600001453?lang=de_CH)
               
 <p class="center">
-  <img src="./../../content/lukas/spider.svg" class="smartspider" alt="Manuel Frick">
+  <img src="./smartspider.png" class="smartspider" alt="Smartspider von Lukas Stiefel">
 </p>
 
 # Privat 

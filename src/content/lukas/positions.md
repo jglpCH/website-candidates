@@ -9,9 +9,9 @@ Vielfältigkeit und individuelle Freiheit machen die Schweiz aus. Ich stehe desh
 
 
 <div class="cells icons">
-  <img src="./../../assets/noun_cycle_1696644_ffffff.svg">
-  <img src="./../../assets/noun_renewable_1962539_ffffff.svg">
-  <img src="./../../assets/noun_Lesbian_1459102_ffffff.svg">
+  <img src="./../../assets/noun_Justice_153241_ffffff.svg">
+  <img src="./../../assets/noun_Gender Equality_198706_ffffff.svg">
+  <img src="./../../assets/noun_Cannabis_2183458_ffffff.svg">
 </div>
         
 ## 2. NACHHALTIGE RESSOURCENWIRTSCHAFT
@@ -22,9 +22,9 @@ Umweltschutz ist alternativlos. Ich setze mich deshalb ein für...
 * … eine Förderung nachhaltiger Technologien, die gerade für den Wirtschaftsstandort Zürich eine grosse Chance darstellen.
 
 <div class="cells icons">
-  <img src="./../../assets/noun_cycle_1696644_ffffff.svg">
+  <img src="./../../assets/noun_Recycle_426057_ffffff.svg">
   <img src="./../../assets/noun_renewable_1962539_ffffff.svg">
-  <img src="./../../assets/noun_Lesbian_1459102_ffffff.svg">
+  <img src="./../../assets/noun_Sharing economy_1763762_ffffff.svg">
 </div>
 
 ## 3. INTERNATIONALE VERNETZUNG
@@ -35,9 +35,9 @@ Gesellschaft und Wirtschaft profitieren gleichermassen von einer starken interna
 * … tiefgehende internationale Zusammenarbeit bei Forschung und Lehre, damit der Hochschulstandort Zürich auch in Zukunft Weltklasse bleibt.
 
 <div class="cells icons">
-<img src="./../../assets/noun_cycle_1696644_ffffff.svg">
-<img src="./../../assets/noun_renewable_1962539_ffffff.svg">
-<img src="./../../assets/noun_Lesbian_1459102_ffffff.svg">
+<img src="./../../assets/noun_european union_1472743_ffffff.svg">
+<img src="./../../assets/noun_Trade_686718_ffffff.svg">
+<img src="./../../assets/noun_Research_1708511_ffffff.svg">
 </div>
 
 ## 4. INNOVATIVE, LIBERALE WIRTSCHAFTSPOLITIK
@@ -47,9 +47,9 @@ Eine starke Wirtschaft ist Grundlage für unseren Wohlstand. Ich bin deshalb…
 * … für eine Liberalisierung von Ladenöffnungszeiten.
         
 <div class="cells icons">
-<img src="./../../assets/noun_cycle_1696644_ffffff.svg">
-<img src="./../../assets/noun_renewable_1962539_ffffff.svg">
-<img src="./../../assets/noun_Lesbian_1459102_ffffff.svg">
+<img src="./../../assets/noun_innovation_1713271_ffffff.svg">
+<img src="./../../assets/noun_STATE CAPITAL_915569_ffffff.svg">
+<img src="./../../assets/noun_clock_79115_ffffff.svg">
 </div>
 
 ## 5. VELO FIRST, AUTO SECOND</h2>
@@ -61,9 +61,9 @@ Das Auto ist von vorgestern, smarte Verkehrslösungen sind angesagt. Ich befürw
 
 
 <div class="cells icons">
+<img src="./../../assets/noun_Electric Car_1683026_ffffff.svg">
 <img src="./../../assets/noun_cycle_1696644_ffffff.svg">
-<img src="./../../assets/noun_renewable_1962539_ffffff.svg">
-<img src="./../../assets/noun_Lesbian_1459102_ffffff.svg">
+<img src="./../../assets/noun_Flower_2171846_ffffff.svg">
 </div>
         
 Weitere Positionen und ausführliche Begründungen sind auch in den <a href="https://zurich.jungegrunliberale.ch/wp-content/uploads/sites/2/2018/11/2018_revision_final.pdf"
