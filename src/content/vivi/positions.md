@@ -1,7 +1,7 @@
 # Dafür stehe ich ein
 Umweltfreundliche, gesellschafts- und wirtschaftsliberale Politik, sind für mich keine Gegensätze, sondern bieten Chancen -> lies selbst. 
 
-## FÜR EINE NACHHALTIGE ERNÄHRUNG
+## 1. FÜR EINE NACHHALTIGE ERNÄHRUNG
 
 Noch heute wird kaum oder zu wenig umfassend über die Auswirkungen unserer Ernährung aufgeklärt. Enormer Ressourcenverbrauch, Monokulturen, Pestizide und Transporte zerstören die Umwelt stärker als wir meinen. 
 Ich setze mich für mehr Aufklärung betreffend Ernährung, erweiterte Angebote von nicht tierischen Produkten und mehr Transparenz zu Herstellungsmethoden und Herkunft von Produkten ein. Gerade nachhaltige Produkte bilden einen Wachstumsmarkt mit grossem wirtschaftlichen Potenzial.
