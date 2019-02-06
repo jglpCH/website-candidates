@@ -12,9 +12,9 @@ Ich setze mich für griffige CO2-Gesetze, Förderung von Cleantech und eine rasc
 erneurbaren Energien ein.
 
 <div class="cells icons">
-  <img src="./../../assets/noun_cycle_1696644_ffffff.svg">
+  <img src="./../../assets/noun_sun_2178976_ffffff.svg">
   <img src="./../../assets/noun_renewable_1962539_ffffff.svg">
-  <img src="./../../assets/noun_Lesbian_1459102_ffffff.svg">
+  <img src="./../../assets/noun_Energy_1429376_ffffff.svg">
 </div>
         
 ## 2. INNOVATIV UND DIGITAL - BEREIT FÜR DIE ZUKUNFT
@@ -26,9 +26,9 @@ Ich setze mich für Startups und schlanke Regulierungen ein und engagiere mich v
 Branchenschutz, Protektionismus und Filzpolitik.
 
 <div class="cells icons">
-  <img src="./../../assets/noun_cycle_1696644_ffffff.svg">
-  <img src="./../../assets/noun_renewable_1962539_ffffff.svg">
-  <img src="./../../assets/noun_Lesbian_1459102_ffffff.svg">
+  <img src="./../../assets/noun_innovation_1713271_ffffff.svg">
+  <img src="./../../assets/noun_Sharing economy_1763762_ffffff.svg">
+  <img src="./../../assets/digital.svg">
 </div>
 
 ## 3. LIBERALE CHANCENKULTUR
@@ -40,8 +40,8 @@ Ich setze mich ein für ausgeprägte Bildung, Starthilfe für sozial Benachteili
 Chancen garantiert und Schwache schützt.
 
 <div class="cells icons">
-<img src="./../../assets/noun_cycle_1696644_ffffff.svg">
-<img src="./../../assets/noun_renewable_1962539_ffffff.svg">
+<img src="./../../assets/noun_Gender Equality_198706_ffffff.svg">
+<img src="./../../assets/noun_Justice_153241_ffffff.svg">
 <img src="./../../assets/noun_Lesbian_1459102_ffffff.svg">
 </div>
 
@@ -55,9 +55,9 @@ Millionengewinne sollen versteuert statt Kriminellen überassen werden, der Juge
 die Produkte müssen auf ihre Qualität überprüft werden.
 
 <div class="cells icons">
-<img src="./../../assets/noun_cycle_1696644_ffffff.svg">
-<img src="./../../assets/noun_renewable_1962539_ffffff.svg">
-<img src="./../../assets/noun_Lesbian_1459102_ffffff.svg">
+<img src="./../../assets/noun_Cannabis_2183458_ffffff.svg">
+<img src="./../../assets/noun_tax_1662413_ffffff.svg">
+<img src="./../../assets/noun_Trade_686718_ffffff.svg">
 </div>
 
 ## 5. VELO FIRST, AUTO SECOND</h2>
@@ -70,8 +70,8 @@ Ich setze mich ein für verursachergerechte Abgaben, Velowege und Elektromobilit
 
 <div class="cells icons">
 <img src="./../../assets/noun_cycle_1696644_ffffff.svg">
-<img src="./../../assets/noun_renewable_1962539_ffffff.svg">
-<img src="./../../assets/noun_Lesbian_1459102_ffffff.svg">
+<img src="./../../assets/noun_Autonomous Car_747299_ffffff.svg">
+<img src="./../../assets/noun_Electric Car_1683026_ffffff.svg">
 </div>
         
 # Smartspider
