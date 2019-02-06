@@ -17,7 +17,7 @@ erneurbaren Energien ein.
   <img src="./../../assets/noun_Lesbian_1459102_ffffff.svg">
 </div>
         
-## 2. INNOVATION UND DIGITAL - BEREIT FÜR DIE ZUKUNFT
+## 2. INNOVATIV UND DIGITAL - BEREIT FÜR DIE ZUKUNFT
 
 Innovation nützt der Gesellschaft - sie verbessert die Angebote, fordert grosse Player heraus und stärkt die
 Wettbewerbsfähigkeit.
@@ -33,7 +33,7 @@ Branchenschutz, Protektionismus und Filzpolitik.
 
 ## 3. LIBERALE CHANCENKULTUR
 
-Jeder Mensch hat eine faire Chance verdient, und jeder Mensch soll sich mit persönlichen Einsatz alles
+Jeder Mensch hat eine faire Chance verdient, und jeder Mensch soll mit persönlichem Einsatz alles
 erreichen können - ohne Schikane und mit garantiert fairer Behandlung durch den Staat.
 
 Ich setze mich ein für ausgeprägte Bildung, Starthilfe für sozial Benachteiligte und einen starken Rechtstaat, welcher 
@@ -46,15 +46,14 @@ Chancen garantiert und Schwache schützt.
 </div>
 
 ## 4. Cannabisregulierung
-Die Schweiz, besonders Zürich, war früher glänzendes Vorbild in der Drogenpolitik. Besonders in der Cannabis-
-Politik folgen wir aber aktuell einem veraltetem Bild und verursachen so unnötig Millionen Kosten, obwohl wir 
-es eigentlich besser wissen.
-So überlassen wir Millionengewinne den Kriminellen statt sie zu versteuern und für AHV und Prävention einzusetzen, 
-den Jugendschutz überlassen wir Dealern und eine Qualitätskontrolle existiert nicht.
+Die aktuelle Cannabispolitik schadet allen - den Konsumenten, der Bevölkerung und der Volkswirtschaft. Insgesamt verliert
+ die Schweiz jedes Jahr 450 Millionen Franken durch die ausbleibende Regulierung - auf was warten wir noch?
 
 Ich setze mich ein für eine liberale Drogenpolitik, welche sich an der Wissenschaft orientiert und nicht 
-auf historischer Zufälligkeit basiert. Für Cannabis strebe ich eine Regulierung vergleichbar mit Alkohol an.
-          
+mit historischer Zufälligkeit argumentiert. Für Cannabis unterstütze ich eine Regulierung vergleichbar mit Alkohol. Die 
+Millionengewinne sollen versteuert statt Kriminellen überassen werden, der Jugendschutz gehört kontrolliert und
+die Produkte müssen auf ihre Qualität überprüft werden.
+
 <div class="cells icons">
 <img src="./../../assets/noun_cycle_1696644_ffffff.svg">
 <img src="./../../assets/noun_renewable_1962539_ffffff.svg">
