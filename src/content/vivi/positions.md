@@ -23,18 +23,22 @@ Nebst dem Klimawandel stellt das akute Artensterben ein weiteres riesiges Proble
 
 ## 3. GLEICHE RECHTE FÜR ALLE
 
-In einer liberalen Gesellschaft sollte jeder Mensch, unabhängig von Geschlecht, sexueller Orientierung, Herkunft oder anderer Kriterien gleiche Rechte und Pflichten haben. Beispielsweise ist die Ehe für Alle längst überfällig. Weiter sollten wir über Eltern- statt Mutterschaftsurlaub sprechen, genauso wie über eine Alternative zur Wehrpflicht. Ich setze mich ein für gleiche Rechte und Pflichten für alle. Eigenverantwortung Fördern als Teil des Ganzen - zum Wohle der Gemeinschaft.
+In einer liberalen Gesellschaft sollte jeder Mensch, unabhängig von Geschlecht, sexueller Orientierung, Herkunft oder 
+anderer Kriterien gleiche Rechte und Pflichten haben. Beispielsweise ist die Ehe für Alle längst überfällig. Weiter 
+sollten wir über Eltern- statt Mutterschaftsurlaub sprechen, genauso wie über eine Alternative zur Wehrpflicht. Ich 
+setze mich ein für gleiche Rechte und Pflichten für alle. Eigenverantwortung fördern als Teil des Ganzen - zum Wohle 
+der Gemeinschaft.
 
 <div class="cells icons">
-<img src="./../../assets/noun_STATE CAPITAL_915569_ffffff.svg">
-<img src="./../../assets/noun_Justice_153241_ffffff.svg">
-<img src="./../../assets/noun_Lesbian_1459102_ffffff.svg">
+  <img src="./../../assets/noun_STATE CAPITAL_915569_ffffff.svg">
+  <img src="./../../assets/noun_Justice_153241_ffffff.svg">
+  <img src="./../../assets/noun_Lesbian_1459102_ffffff.svg">
 </div>
 
 ## 4. TEILEN STATT KAUFEN
 Das Motto der Sharing Economy schützt nicht nur unsere Umwelt, sondern auch das Portemonnaie des Einzelnen. Zudem stärkt diese Form den Wettbewerb und ermöglicht den Konsumenten, das Geld in andere Wirtschaftszweige zu investieren. Teilen statt kaufen hilft uns allen, weshalb ich mich gegen eine Überregulierung dieser Businessmodelle einsetze. Nutzen wir die technischen Möglichkeiten zur Umsetzung!       
 <div class="cells icons">
-<img src="./../../assets/noun_Sharing economy_1763762_ffffff.svg">
-<img src="./../../assets/noun_innovation_603254_ffffff.svg">
-<img src="./../../assets/noun_tax_1662413_ffffff.svg">
+  <img src="./../../assets/noun_Sharing economy_1763762_ffffff.svg">
+  <img src="./../../assets/noun_innovation_603254_ffffff.svg">
+  <img src="./../../assets/noun_tax_1662413_ffffff.svg">
 </div>
