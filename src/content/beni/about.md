@@ -25,7 +25,9 @@ _Animal Rights Switzerland_.
 
 
 # Smartspider
-             
+            
+Weitere Informationen findest du auf meinem [Smartvote-Profil](http://www.smartvote.ch/19_zh_leg/portrait/candidate/index/40600001215?lang=de_CH).
+
 <p class="center">
   <img src="./spider.png" class="smartspider" alt="Smartspider Benjamin Locher">
 </p>

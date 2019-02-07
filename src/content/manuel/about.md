@@ -44,9 +44,6 @@ Eine Auswahl aus meiner bisherigen Tätigkeit:
 
 # Smartspider
 
-Folgend der Smartspider der kantonalen Wahlen 2019. Beachte, dass der Smartspider stark von der Fragenauswahl abhängt und nur eine grobe Richtung
-visualisiert.
-
 Weitere Informationen findest du auf meinem [Smartvote-Profil](http://www.smartvote.ch/19_zh_leg/portrait/candidate/index/40600001453?lang=de_CH).
               
 <p class="center">
