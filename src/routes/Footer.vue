@@ -45,10 +45,14 @@
             </ul>
 
           <footer>
-            <p>
-              <strong>&copy; <a target="_blank"  href="https://zurich.jungegrunliberale.ch">Junge Grünliberale Kanton Zürich, jglp Zürich</a></strong><br>
+            <p><br>
+              <strong>&copy; Webseite:  <a target="_blank"  href="https://zurich.jungegrunliberale.ch">
+                Junge Grünliberale Kanton Zürich, jglp Zürich</a></strong><br>
+              <template v-if="config.copyright" v-for="copyright in config.copyright">
+                <span v-html="copyright"></span><br>
+              </template>
+              <br>
               <router-link :to="{name: 'imprint'}">Impressum und Datenschutz</router-link><br>
-
             </p>
           </footer>
         </section>

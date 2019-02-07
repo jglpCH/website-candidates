@@ -13,6 +13,7 @@ const config = {
   description: 'Ich kandidiere im Wahlkreis Winterthur-Land und setze mich mit viel Herzblut für die Sharing-Economy,' +
     ' Gleichstellung und ökolgische Artenvielfalt ein.',
   leadImage: require('./website.jpg'),
+  copyright: ['&copy; Titelbild: Viktor Rohr Neubrunn ']
 };
 
 export default config;
