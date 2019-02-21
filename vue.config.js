@@ -7,9 +7,10 @@ const trackingCodes = {
   lukas: 'UA-134076868-3',
   manuel: 'UA-134076868-1',
   vivi: 'UA-134076868-5',
+  sven: 'UA-134076868-6'
 };
 
-const buildFor = 'manuel';
+const buildFor = 'sven';
 
 process.env.VUE_APP_ANALYTICS_TAG = trackingCodes[buildFor];
 
